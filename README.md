@@ -12,7 +12,7 @@
 
 😄 Pronouns: She/Her
 
-![Profile Views](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Jyothi2828/readme)
+![Profile Views](https://komarev.com/ghpvc/?username=Jyothi2828&color=blue)
 
 
 #Jyothi Prasanna Kambam

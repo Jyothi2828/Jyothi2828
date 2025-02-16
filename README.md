@@ -13,8 +13,6 @@
 😄 Pronouns: She/Her
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jyothi2828&color=blue)
-![LinkedIn]([https://komarev.com/ghpvc/?username=Jyothi2828&color=blue](https://www.linkedin.com/in/jyothiprasannakambam/&color=blue))
-
-
+[![LinkedIn](https://komarev.com/ghpvc/?username=Jyothi2828&color=blue)](https://www.linkedin.com/in/jyothiprasannakambam/)
 
 #Jyothi Prasanna Kambam

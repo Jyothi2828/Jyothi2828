@@ -1,19 +1,67 @@
-# 💫 About Me:
-## About Me  <br><br>👋 Hi, I'm **Jyothi Prasanna Kambam**!  <br>💻 Passionate about **Software Development & Testing**  <br><br>🔭 I’m currently working on **Selenium automation and web development projects.**  <br>👯 I’m looking to collaborate on **software testing, automation, and JavaScript projects.**  <br>🤝 I’m looking for help with **advanced Selenium testing and API automation.**  <br>🌱 I’m currently learning **Software Testing, Automation, and Web Development.**  <br>💬 Ask me about **Java, Selenium, JavaScript, and software testing concepts.**  <br>⚡ Fun fact: **I enjoy solving coding challenges and exploring new tech tools!**  <br>
+# Jyothi Prasanna Kambam
 
+👋 Hi, I'm Jyothi Prasanna Kambam!  
+💻 Passionate about Software Testing, Test Automation, and Web Development.
+
+## 🚀 What I Do:
+
+### 🔍 Software Testing Expertise:
+- Strong knowledge of Manual Testing & Automation Testing.
+- Hands-on experience with Selenium WebDriver, Appium, TestNG, Cucumber, and API Testing.
+- Proficient in writing test cases, test scripts, and automation frameworks.
+- Experience in UI Testing, Functional Testing, Regression Testing, Smoke Testing, and Performance Testing.
+- Well-versed in Bug Tracking & Reporting Tools (JIRA, Bugzilla).
+
+### 🛠️ Appium & Automation Testing:
+- Automating mobile applications using Appium (both Android and iOS).
+- Experience in writing automation test scripts for mobile apps with Appium & Java.
+- Building and maintaining Test Automation Frameworks for mobile apps.
+- API Testing using Postman & REST Assured.
+
+### 🌐 Web Development:
+- Skilled in HTML, CSS, JavaScript, React, and Node.js.
+- Passionate about building responsive & dynamic web applications.
+- Working on full-stack projects & integrating APIs into web applications.
+
+## 🎯 Learning & Goals:
+- 🔭 Currently working on Selenium and Appium automation, mobile application testing, and web development projects.
+- 👯 Looking to collaborate on software testing, mobile test automation, and JavaScript projects.
+- 🤝 Seeking help with advanced Appium testing, mobile automation frameworks, and performance testing.
+- 🌱 Learning **Java**, **React**, and **Node.js** to enhance my full-stack development and mobile test automation skills.
+
+## 💬 Ask me about:
+Java, Selenium, Appium, TestNG, Cucumber, API testing, Web Development, and software testing best practices!
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=Jyothi2828&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bbubblyyyy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jyothiprasannakambam/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jyothiprasannakambam@gmail.com) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bbubblyyyy/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jyothiprasannakambam/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jyothiprasannakambam@gmail.com) 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothi2828&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![SQL](https://img.shields.io/badge/sql-%23006699.svg?style=for-the-badge&logo=sql&logoColor=white) 
+![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white) 
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white) 
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
+![Eclipse](https://img.shields.io/badge/eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+# 🔧 Tools & Frameworks:
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![TestNG](https://img.shields.io/badge/testng-%23188B2D.svg?style=for-the-badge&logo=testng&logoColor=white) 
+![Cucumber](https://img.shields.io/badge/cucumber-%23248B23.svg?style=for-the-badge&logo=cucumber&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=Jyothi2828&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🎯 Design Patterns:
+✅ **Page Object Model (POM)**  
+✅ **Page Factory Model**  
+✅ **Singleton Design Pattern**  
 
-<!-- Created with GPRM ( https://gprm.itsvg.in ) -->

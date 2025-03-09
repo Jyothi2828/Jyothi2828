@@ -33,7 +33,6 @@
 Java, Selenium, Appium, TestNG, Cucumber, API testing, Web Development, and software testing best practices!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jyothi2828)
-![Portfolio](https://bub1.my.canva.site/jyothi-prasanna-kambam)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bbubblyyyy/) 
